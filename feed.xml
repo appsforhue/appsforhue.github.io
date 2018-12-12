@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
+  <link href="https://example.github.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://example.github.io/" rel="alternate" type="text/html" />
+  <updated>2018-12-12T17:11:24+07:00</updated>
+  <id>https://example.github.io/</id>
+
+  
+    <title type="html">Apps For Hue</title>
+  
+
+  
+    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Hue Remote Controller</title>
+      <link href="https://example.github.io/2018/12/09/project-1/" rel="alternate" type="text/html" title="Hue Remote Controller" />
+      <published>2018-12-09T00:00:00+07:00</published>
+      <updated>2018-12-09T00:00:00+07:00</updated>
+      <id>https://example.github.io/2018/12/09/project-1</id>
+      <content type="html" xml:base="https://example.github.io/2018/12/09/project-1/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Awesome Hue</title>
+      <link href="https://example.github.io/2018/12/09/project-2/" rel="alternate" type="text/html" title="Awesome Hue" />
+      <published>2018-12-09T00:00:00+07:00</published>
+      <updated>2018-12-09T00:00:00+07:00</updated>
+      <id>https://example.github.io/2018/12/09/project-2</id>
+      <content type="html" xml:base="https://example.github.io/2018/12/09/project-2/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Hue Notification</title>
+      <link href="https://example.github.io/2018/12/09/project-3/" rel="alternate" type="text/html" title="Hue Notification" />
+      <published>2018-12-09T00:00:00+07:00</published>
+      <updated>2018-12-09T00:00:00+07:00</updated>
+      <id>https://example.github.io/2018/12/09/project-3</id>
+      <content type="html" xml:base="https://example.github.io/2018/12/09/project-3/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
