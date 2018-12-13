@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
-  <link href="https://example.github.io/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://example.github.io/" rel="alternate" type="text/html" />
-  <updated>2018-12-12T17:35:59+07:00</updated>
-  <id>https://example.github.io/</id>
+  <link href="https://www.appsforhue.com/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://www.appsforhue.com/" rel="alternate" type="text/html" />
+  <updated>2018-12-13T10:11:20+07:00</updated>
+  <id>https://www.appsforhue.com/</id>
 
   
     <title type="html">Apps For Hue</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Hue Remote Controller</title>
-      <link href="https://example.github.io/2018/12/09/project-1/" rel="alternate" type="text/html" title="Hue Remote Controller" />
+      <link href="https://www.appsforhue.com/2018/12/09/project-1/" rel="alternate" type="text/html" title="Hue Remote Controller" />
       <published>2018-12-09T00:00:00+07:00</published>
       <updated>2018-12-09T00:00:00+07:00</updated>
-      <id>https://example.github.io/2018/12/09/project-1</id>
-      <content type="html" xml:base="https://example.github.io/2018/12/09/project-1/"></content>
+      <id>https://www.appsforhue.com/2018/12/09/project-1</id>
+      <content type="html" xml:base="https://www.appsforhue.com/2018/12/09/project-1/"></content>
 
       
       
@@ -53,11 +53,11 @@
   
     <entry>
       <title type="html">Awesome Hue</title>
-      <link href="https://example.github.io/2018/12/09/project-2/" rel="alternate" type="text/html" title="Awesome Hue" />
+      <link href="https://www.appsforhue.com/2018/12/09/project-2/" rel="alternate" type="text/html" title="Awesome Hue" />
       <published>2018-12-09T00:00:00+07:00</published>
       <updated>2018-12-09T00:00:00+07:00</updated>
-      <id>https://example.github.io/2018/12/09/project-2</id>
-      <content type="html" xml:base="https://example.github.io/2018/12/09/project-2/"></content>
+      <id>https://www.appsforhue.com/2018/12/09/project-2</id>
+      <content type="html" xml:base="https://www.appsforhue.com/2018/12/09/project-2/"></content>
 
       
       
@@ -85,11 +85,11 @@
   
     <entry>
       <title type="html">Hue Notification</title>
-      <link href="https://example.github.io/2018/12/09/project-3/" rel="alternate" type="text/html" title="Hue Notification" />
+      <link href="https://www.appsforhue.com/2018/12/09/project-3/" rel="alternate" type="text/html" title="Hue Notification" />
       <published>2018-12-09T00:00:00+07:00</published>
       <updated>2018-12-09T00:00:00+07:00</updated>
-      <id>https://example.github.io/2018/12/09/project-3</id>
-      <content type="html" xml:base="https://example.github.io/2018/12/09/project-3/"></content>
+      <id>https://www.appsforhue.com/2018/12/09/project-3</id>
+      <content type="html" xml:base="https://www.appsforhue.com/2018/12/09/project-3/"></content>
 
       
       
